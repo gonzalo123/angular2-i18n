@@ -16,7 +16,7 @@ var config = {
         rxjs: './node_modules/rxjs'
     },
     paths: {
-        '*': 'src/I18nService.js'
+        '*': 'src/*.js'
     },
     meta: {
         './node_modules/@angular/*': {build: false},

@@ -1,6 +1,6 @@
 {
   "name": "angular2-i18n",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "i18n service and pipe for angular2",
   "scripts": {
     "test": "tsc && karma start",
@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/gonzalo123/angular2-i18n/issues"
   },
-  "main": "src/I18nService.js",
+  "main": "src/I18nService.ts",
   "typings": "./src/I18nService.d.ts",
   "homepage": "https://github.com/gonzalo123/angular2-i18n",
   "peerDependencies": {
