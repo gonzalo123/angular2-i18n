@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "module": "commonjs",
+    "target": "es5",
+    "emitDecoratorMetadata": true,
+    "inlineSourceMap": true,
+    "inlineSources": true,
+    "declaration": true,
+    "moduleResolution": "node",
+    "experimentalDecorators": true
+  },
+  "files": [
+    "typings/index.d.ts",
+    "src/I18nService.ts",
+    "tests/service.spec.ts"
+  ]
+}
