@@ -37,7 +37,7 @@ let text:string = i18n.translate("true");
 ```
 
 Pipe:
-```js`
+```js
 {{ "true" | i18n }}
-``
+```
 
